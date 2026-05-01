@@ -21,8 +21,6 @@ This repository contains my practice programs in C and Python as part of my BTec
 
 ## 🎯 Goal
 
-## 🎯 Goal
-
 To explore programming, strengthen core concepts, and improve logical thinking through hands-on practice.
 
 ---
